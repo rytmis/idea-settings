@@ -11,6 +11,9 @@
     <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
   <component name="XcodeSettings">
     <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
     <option name="detectedXcodes">
