@@ -1,0 +1,10 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/projects/untitled folder" />
+    <string key="documentExtension" value="mydoc" />
+    <string key="bundleIdentifierPrefix" value="net.rytmis" />
+    <string key="organizationName" value="___FULLUSERNAME___" />
+    <boolean key="storyboardBased" value="true" />
+    <string key="languageChoice" value="Swift" />
+  </component>
+</application>
