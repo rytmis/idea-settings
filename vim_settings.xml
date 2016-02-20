@@ -2,16 +2,80 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/projects/visitor-api/app/routes.php" timestamp="1455985469835">
+        <mark key="'" line="59" column="16" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="83" column="53" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/visitor-api/app/models/User.php" timestamp="1455985316533">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="72" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/visitor-api/app/models/Visit.php" timestamp="1455985421997">
+        <mark key="'" line="13" column="27" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="51" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="17" column="32" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="59" column="16" filename="$USER_HOME$/projects/visitor-api/app/routes.php" />
+      <jump line="13" column="27" filename="$USER_HOME$/projects/visitor-api/app/models/Visit.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSR2aXNpdC0+c2F2ZSgpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">JHZpc2l0ID0g</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdmlzaXQgPSBuZXcgVmlzaXQoKTsKICAgICAgICAkdmlzaXQtPlR1bm5pc3RlID0gJHRoaXMtPklkOwogICAgICAgICR2aXNpdC0+WXJpdHlzID0gJGlucHV0Wydvcmdhbml6YXRpb25fbmFtZSddOwogICAgICAgICR2aXNpdC0+RXR1bmltaSA9ICRpbnB1dFsnZmlyc3RfbmFtZSddOwogICAgICAgICR2aXNpdC0+U3VrdW5pbWkgPSAkaW5wdXRbJ2xhc3RfbmFtZSddOwogICAgICAgICR2aXNpdC0+VGl0dGVsaSA9ICRpbnB1dFsndGl0bGUnXTsKICAgICAgICAkdmlzaXQtPkVtYWlsID0gJGlucHV0WydlbWFpbCddOwogICAgICAgICR2aXNpdC0+R3NtID0gJGlucHV0WydwaG9uZSddOwogICAgICAgICR2aXNpdC0+T3NvaXRlID0gJGlucHV0WydzdHJlZXRfYWRkcmVzcyddOwogICAgICAgICR2aXNpdC0+UG9zdGlucm8gPSAkaW5wdXRbJ3ppcF9jb2RlJ107CiAgICAgICAgJHZpc2l0LT5Ub2ltaXBhaWtrYSA9ICRpbnB1dFsnY2l0eSddOwogICAgICAgICR2aXNpdC0+TWFhID0gJGlucHV0Wydjb3VudHJ5J107CiAgICAgICAgJHZpc2l0LT5UYXBhaHR1bWEgPSAkaW5wdXRbJ2V2ZW50X25hbWUnXTsKICAgICAgICAkdmlzaXQtPk1hcmtraW5vaW50aSA9ICRpbnB1dFsnYWxsb3dfZGlyZWN0X21hcmtldGluZyddOwogICAgICAgICR2aXNpdC0+TGlzYXRpZXRvID0gJGlucHV0WydhZGRpdGlvbmFsX2luZm9ybWF0aW9uJ107CiAgICAgICAgJHZpc2l0LT5yZXByZXNlbnRhdGl2ZSA9ICRpbnB1dFsncmVwcmVzZW50YXRpdmUnXTsKICAgICAgICAkdmlzaXQtPmludGVyZXN0cyA9ICRpbnB1dFsnaW50ZXJlc3RzJ107CiAgICAgICAgJHZpc2l0LT5hY3Rpb25zID0gJGlucHV0WydhY3Rpb25zJ107CiAgICAgICAgJHZpc2l0LT5vdGhlciA9ICRpbnB1dFsnb3RoZXInXTsKICAgICAgICByZXR1cm4gJHZpc2l0Owo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CSR2aXNpdC0+c2F2ZSgpOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">JHZpc2l0ID0g</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSR2aXNpdC0+U2lqYWludGlrb29kaSA9ICRpbnB1dFsnbG9jYXRpb24nXTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSR1c2VyID0gZW5zdXJlVXNlcigkZXZlbnRJZCwgJHJlZ0lkKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">JHVzZXItPg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">dGhpcy0+SWQ=</text>
+      </register>
+      <register name="9" type="4">
+        <text>§</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
